@@ -25,7 +25,7 @@ myReplace("Let us get back to more Coding", "Coding", "algorithms");
 
 ## Stratgey :
 
-1- First check if the fist index of "beofre" is a lowercase,
+1- First check if the first index of "beofre" is a lowercase,
 
 2- if so, Replace before with after , and return the newString
 
