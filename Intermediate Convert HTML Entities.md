@@ -1,6 +1,6 @@
 ```
 function convertHTML(str) {
-  //Regex
+//Regex
   var regexStr = /[>"'&<]/;
   
   //test if the sting contains one of the regex symbols
