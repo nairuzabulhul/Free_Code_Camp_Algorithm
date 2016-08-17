@@ -23,7 +23,6 @@ function spinalCase(str) {
 }
 
 spinalCase('AllThe-small Things');
-
 ```
 
 ## Strategy:
